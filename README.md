@@ -74,7 +74,7 @@ Docker Deploy
 下载最新发布版本
 
 ``` sh
-wget https://github.com/cloudfavorites/favorites-web/archive/favorites-1.2.2.zip
+wget https://github.com/cloudfavorites/favorites-web/archive/favorites-1.3.0.zip
 ```
 
 解压
@@ -124,4 +124,4 @@ Discussing
 --------
 关注公众号：纯洁的微笑，回复"springboot"进群交流
 
-![](http://www.ityouknow.com/assets/images/keeppuresmile.jpg)
+![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
